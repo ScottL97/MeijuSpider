@@ -45,7 +45,7 @@ class Ui_mainWindow(object):
 
     def retranslateUi(self, mainWindow):
         _translate = QtCore.QCoreApplication.translate
-        mainWindow.setWindowTitle(_translate("mainWindow", "黑黑美剧爬虫 V0.2.0 A651专享版"))
+        mainWindow.setWindowTitle(_translate("mainWindow", "美剧爬虫 V0.2"))
         self.pushButton.setText(_translate("mainWindow", "搜索"))
         self.label.setText(_translate("mainWindow", "美剧名："))
         self.textEdit.setText(_translate("mainWindow", "显示美剧剧集及下载链接"))
